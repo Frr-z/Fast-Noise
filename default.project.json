@@ -1,0 +1,13 @@
+{
+  "name": "Fast-Noise",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "FastNoise": {
+        "$path": "ReplicatedStorage/FastNoise"
+      }
+    }
+
+  }
+}
