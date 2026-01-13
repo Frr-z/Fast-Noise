@@ -219,7 +219,7 @@ FastNoise/
 ```
 
 ## Examples
-Make sure you check [FastNoiseShowcase.rbxm](ReplicatedStorage\FastNoise\Examples\FastNoiseShowcase.rbxm)! Big thanks to @avocadopeanut
+Make sure you check [FastNoiseShowcase.rbxm](ReplicatedStorage/FastNoise/Examples/FastNoiseShowcase.rbxm)! Big thanks to @avocadopeanut
 
 ## Performance Tips
 
