@@ -218,6 +218,9 @@ FastNoise/
     └── TerrainGenerator.lua
 ```
 
+## Examples
+Make sure you check [FastNoiseShowcase.rbxm](ReplicatedStorage\FastNoise\Examples\FastNoiseShowcase.rbxm)! Big thanks to @avocadopeanut
+
 ## Performance Tips
 
 1. **Use `.create()`** - Pre-configures the generator
