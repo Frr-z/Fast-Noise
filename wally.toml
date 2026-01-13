@@ -1,0 +1,12 @@
+[package]
+name = "frr-z/fastnoise"
+description = "A high-performance, fully-typed noise generation library for Roblox/Luau."
+version = "0.1.0"
+license = "MIT"
+authors = ["Daniel Ferraz <daniel@celebrar.fot.br>"]
+registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/Frr-z/Fast-Noise"
+realm = "shared"
+exclude = ["aftman.toml", "README.md", "LICENSE", "default.project.json", "wally.lock", ".gitignore", ".gitattributes", "ReplicatedStorage/FastNoise/Examples"]
+
+[dependencies]
